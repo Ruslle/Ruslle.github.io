@@ -1,0 +1,1 @@
+<?=@file_get_contents("cache/pages/index.txt"); ?>	
